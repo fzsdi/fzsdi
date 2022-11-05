@@ -1,3 +1,3 @@
 Hey 👋🏻,
 
-I am a Computer Engineering student and a part-time Back-end Developer from Tehran.
+I am a computer engineering student and a part-time geek from Tehran.
