@@ -1,3 +1,3 @@
 Hey 👋🏻,
 
-I am a computer engineering student and a part-time geek from Tehran.
+I am a Software QA Engineer, interested in automating test-cases. I also do Back-end Development in my free time 👩‍💻
